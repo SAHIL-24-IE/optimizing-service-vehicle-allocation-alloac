@@ -1,2 +1,2 @@
-# optimizing-service-vehicle-allocation-alloac
-optimizing service vehicle allocation alloac
+# optimizing-service-vehicle-allocation-alloacation
+optimizing service vehicle allocation alloacation
